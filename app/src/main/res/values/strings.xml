@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CoffeeStore</string>
+    <string name="see_all">See all</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="category">Category</string>
+    <string name="list">List</string>
+    <string name="back">Back</string>
+    <string name="coffee_size">Coffee Size</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="qty">Qty.</string>
+</resources>
